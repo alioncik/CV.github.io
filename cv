@@ -1,0 +1,225 @@
+Skip to content
+Why GitHub? 
+Enterprise
+Explore 
+Marketplace
+Pricing 
+Search
+
+Sign in
+Sign up
+0 0 0 raha1/My-CV
+ Code  Issues 0  Pull requests 0  Projects 0  Insights
+Join GitHub today
+GitHub is home to over 36 million developers working together to host and review code, manage projects, and build software together.
+
+My-CV/index.html
+@raha1 raha1 Add files via upload
+d18e19e on Jun 28, 2018
+213 lines (166 sloc)  5.06 KB
+    
+<!DOCTYPE html>
+<html>
+<head>
+<title>Raha Kheirinia - Curriculum Vitae</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1""/>
+<meta name="description" content="The Curriculum Vitae of Raha Kheirinia."/>
+<meta charset="UTF-8"> 
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body id="top">
+<div id="cv" class="instaFade">
+	
+	<div class="mainDetails">
+		<div id="headshot" class="quickFade">
+			<img src="raha.JPG" alt="My photo" />
+		</div>
+		
+		<div id="name">
+			<h1 class="quickFade delayTwo">Raha Kheirinia</h1>
+			<br/>
+			<h2 class="quickFade delayThree">Computer Science student</h2>
+		</div>
+		
+		<div id="contactDetails" class="quickFade delayFour">
+			<ul>
+				<li>E-Mail: <a href="mailto:zohreh.kheirinia@umontreal.ca" target="_blank"> zohreh.kheirinia@umontreal.ca</a></li>
+				<li>GitHub: <a href="https://github.com/raha1"> github.com/raha1</a></li>
+				<li>Linkedin: <a href="https://www.linkedin.com/in/kheirinia/"> linkedin.com/in/kheirinia</a> </li>
+				<li>Phone: +1 (514)431-9296</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+	</div>
+	
+	<div id="mainArea" class="quickFade delayFive">
+		<section>
+			<article>
+				<div class="sectionTitle">
+					<h1>Competence</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p>
+							- Fast learning and the ability to work individually as well as in a group.<br>
+							- Well motivated, enthusiastic and open to learn new ideas.<br/>
+							- Dynamic, rigorous, balanced, creative and punctual.<br/>
+							- Serious at work.<br/>
+							- Ability to handle multiple tasks.
+					</p>
+				</div>
+			</article>
+			<div class="clear"></div>
+		</section>
+		
+		<section>
+				<div class="sectionTitle">
+					<h1>Education</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<article>
+						<h2>Université de Montréal</h2>
+						<p class="subDetails">Bachelor of Computer Science		2015-09 - 2018-08</p>
+						<p>Award: Computer Science Department Award ($2000). GPA : 3.026</p>
+						</article>
+					
+					<article>
+						<h2>Université de Montréal</h2>
+						<p class="subDetails">Certificate		2014-01 - 2015-04</p>
+						<p>Certificate in French as a Second Language</p>
+					</article>
+						<article>
+								<h2>Ministry of Education</h2>
+								<p class="subDetails">Associates Degree	  	2013-08 - 2013-12</p>
+								<p>Starting a Business</p>
+		
+							</article>
+							<article>
+									<h2>University of Sheikh Bahae</h2>
+									<p class="subDetails">Associates Degree		2007-09 - 2009-09</p>
+									<p>Travel and tourism service</p>
+			
+								</article>
+				</div>
+				<div class="clear"></div>
+			</section>
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Skills</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<article>
+					<h2>Programming language</h2>
+					<p class="subDetails"> </p>
+					<p> Java, Python, XSLT</p>
+				</article>
+				
+				<article>
+					<h2>Markup language</h2>
+					<p class="subDetails"> </p>
+					<p>
+							HTML5, XHTML, XML, CSS
+					</p>
+				</article>
+				
+				<article>
+					<h2>Script programming language</h2>
+					<p class="subDetails"> </p>
+					<p>
+							JavaScript, PHP
+					</p>
+				</article>
+				<article>
+						<h2>Query language</h2>
+						<p class="subDetails"> </p>
+						<p>
+								JQuery, MySQL.
+						</p>
+					</article>
+			</div>
+			<div class="clear"></div>
+		</section>
+		
+		
+		<section>
+			<div class="sectionTitle">
+				<h1>Application</h1>
+			</div>
+			
+			<div class="sectionContent">
+				<ul class="keySkills">
+					<li>ECLIPSE</li>
+					<li>PyCharm</li>
+					<li>GITHUB</li>
+					<li>GIT</li>
+					<li>Android Studio</li>
+					<li> Visual Studio Code</li>
+					<li>Visual Paradigm</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+		</section>
+		<section>
+				<div class="sectionTitle">
+					<h1>Courses</h1>
+				</div>
+				
+				<div class="sectionContent">
+					<p >
+							Web design and development, Programming 1(JS), Object Oriented Programming (JAVA), Data structures, Computer Architecture, Concepts of programming languages, Databases, Operating systems, Software engineering, System Hardware, Android, IT Security, Computer Biology, Networks, Computer theory, Software and Metric quality, Artificial Intelligence.
+					</p>
+				</div>
+				<div class="clear"></div>
+				
+			</section>
+			<section>
+					<div class="sectionTitle">
+						<h1>Languages</h1>
+					</div>
+					
+					<div class="sectionContent">
+						<ul class="len">
+							<li><p>English</p></li>
+							<li><p>French</p></li>
+							<li><p>Persian</p></li>
+						
+						</ul>
+					</div>
+					<div class="clear"></div>
+					
+				</section>
+			<section>
+					<div class="sectionTitle">
+						<h1>Interests</h1>
+					</div>
+					
+					<div class="sectionContent">
+						<p >
+								Cycling, Paragliding, Swimming, Skiing, Playing guitar						</p>
+					</div>
+					<div class="clear"></div>
+					
+				</section>
+		
+		
+	</div>
+</div>
+</script>
+</body>
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
